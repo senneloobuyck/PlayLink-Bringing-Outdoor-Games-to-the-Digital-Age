@@ -6,6 +6,11 @@ This project was developed as part of the **Design Project** course and was driv
 
 Our main focus was on **youth movements**, where outdoor games play an important social and physical role. To support this, we built not only an outdoor game application, but also a **developer platform** that allows users to easily create and customize their own games. By providing a flexible, low-threshold game creation environment, we aimed to empower youth leaders and organizations to design engaging outdoor experiences tailored to their own groups.
 
+## 🖼️ Poster
+
+This poster provides a high-level overview of the PlayLink project, including its motivation, core features, gameplay mechanics, and the game creation platform.
+
+📄 **[View the project poster (PDF)](./poster/PlayLink_Poster.pdf)**
 
 ## 🧑‍💻 My Role
 
