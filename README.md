@@ -10,7 +10,7 @@ Our main focus was on **youth movements**, where outdoor games play an important
 
 This poster provides a high-level overview of the PlayLink project, including its motivation, core features, gameplay mechanics, and the game creation platform.
 
-📄 **[View the project poster (PDF)](./poster/PlayLink_Poster.pdf)**
+📄 **[View the project poster (PDF)](./PlayLink_poster.pdf)**
 
 ## 🧑‍💻 My Role
 
