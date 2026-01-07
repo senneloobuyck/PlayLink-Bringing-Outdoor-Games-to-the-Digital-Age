@@ -1,4 +1,4 @@
-# PlayLink -- Bringing Outdoor Games to the Digital Age
+# PlayLink - Bringing Outdoor Games to the Digital Age
 
 ## 🌱 Why This Project?
 
